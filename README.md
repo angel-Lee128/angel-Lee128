@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angel-Lee128
-- 👀 I’m interested in Web developement.
-- 🌱 I’m currently learning Vue.js.
+- 👀 I’m interested in Web developement, especially focused on modern JavaScript frameworks, such as React.js(Next, Gatsby), Vue.js(Nuxt, Quasar), Angular, Node.js(Express, Nest), and so on.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on MERN stack projects.
 - 📫 How to reach me : skype ID: live:.cid.8c193a426ef90495
 
